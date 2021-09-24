@@ -13,7 +13,7 @@ Overall the genome will have equal G and C as they are complementary bases but w
 considered this is not the case. The GC skew arises from differential mutation rates between the leading and lagging strands,
 and can give clues as to the structure of the genome.  
 
-Access the notebook here [GC-Skew.ipynb](GC-Skew.ipynb) 
+Access the notebook here [GC-Skew.ipynb](GC-Skew.ipynb) or click the button to run at mybinder.org [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidmam/BS31003Bioinformatics/HEAD?filepath=GC-Skew.ipynb)
 
 ### Notebook 2 - kmer analysis
 
@@ -21,7 +21,7 @@ In this notebook we look at how frequently short DNA 'words' are reused within a
 is challenging unless they are very closely related as the evolutionary processes include genome rearrangement. However the frequency 
 of short 'words' in the genome changes more slowly and can give insight into species families with incomplete or unassembled genomes.
 
-Access the notebook here [./k-mers.ipynb](k-mers.ipynb)
+Access the notebook here [./k-mers.ipynb](k-mers.ipynb) or click the button to run at mybinder.org [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidmam/BS31003Bioinformatics/HEAD?filepath=k-mers.ipynb)
 
 ### Using Jupyter notebooks
 
